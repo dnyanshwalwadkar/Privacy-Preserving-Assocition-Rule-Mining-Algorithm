@@ -1,1 +1,1 @@
-# hello-world
+Recently privacy-preserving assocition rules mining algorithm have been proposed to support data privacy , However , the algorithms have an additional overhead to insert fake items and cannot hide data frequency . In this project we used privacy preserving assocition rule mining algorithm or encrypted data in cloud computing . for assocition rule minig rule we utilize apriori Algorithm by using Elgamal Cryptosystem without additional fake transaction.
